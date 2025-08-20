@@ -1,4 +1,4 @@
-# 🎲 Amigo Secreto (Secret Santa)
+# 🎲 Amigo Secreto 
 
 ## 📝 Project Description
 This is a simple web application for the traditional "Secret Santa" game. It allows users to enter a list of participants' names, and with a single click, a random name is drawn to reveal the "secret santa" for the game. This project was developed as an exercise to reinforce programming logic and basic front-end development skills.
